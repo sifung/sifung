@@ -1,9 +1,3 @@
-## What's up world!
----
-- It's me Sifu 
----
-
-
 # Hi, I'm Hiramoni Brahma 👋
 
 🎓 BCA Student | 💻 Aspiring Cybersecurity Researcher | 🚀 Continuous Learner  
