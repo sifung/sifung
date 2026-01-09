@@ -11,7 +11,7 @@ I believe in learning from scratch, staying consistent, and improving every sing
 - Linux & Networking
 - Python Programming
 - AI & Data Science (Beginner)
-- 
+  
 ## Skills
 - Programming: Python, Java, C, C++
 - Web: HTML, CSS (Basics)
