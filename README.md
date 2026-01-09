@@ -1,7 +1,7 @@
 # Hi, I'm Sifu👋
-  BCA Student | Continuous Learner  
+  BCA Student 
 
-I am a Computer Applications student with a strong interest in cybersecurity, ethical hacking
+I am a Computer Applications student with a strong interest in cybersecurity, ethical hacking </br>
 I believe in learning from scratch, staying consistent, and improving every single day.
 
 ---
