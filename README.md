@@ -1,4 +1,4 @@
-# Hi, I'm Sifu👋
+# Hi, I'm Sifu
   BCA Student 
 
 I am a Computer Applications student with a strong interest in cybersecurity, ethical hacking </br>
