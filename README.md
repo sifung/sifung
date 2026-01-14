@@ -1,5 +1,5 @@
 # Hi, I'm Sifu
-I am a Computer Applications student with a strong interest in cybersecurity, ethical hacking </br>
+I am a BCA student with a strong interest in CyberSecurity </br>
 I believe in learning from scratch, staying consistent, and improving every single day.
 
 ---
