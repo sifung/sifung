@@ -21,4 +21,4 @@ I believe in learning from scratch, staying consistent, and improving every sing
 - Computer Networks
 
 ---
-💡 *“Obsession and discipline will always beat luck and talent.”*
+💡 *I belive Obsession and discipline will always gonna beat luck and talent*
