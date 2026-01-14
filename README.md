@@ -4,7 +4,6 @@ I believe in learning from scratch, staying consistent, and improving every sing
 
 ---
 ## Interests
-- Cybersecurity & Ethical Hacking
 - Bug Bounty & Web Security
 - Linux & Networking
 - Python Programming
