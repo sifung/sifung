@@ -1,6 +1,5 @@
 # Hi, I'm Sifu
 I am a BCA student with a strong interest in CyberSecurity </br>
-I believe in learning from scratch, staying consistent, and improving every single day.
 
 ---
 ## Interests
