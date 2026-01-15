@@ -1,5 +1,5 @@
 # Hi, I'm Sifu
-I am a BCA student with a strong interest in CyberSecurity & Dev </br>
+I am a BCA student with a strong interest in Engineering and Technology </br>
 
 ---
 ## Interests
