@@ -16,7 +16,6 @@ I am a BCA student with a strong interest in CyberSecurity </br>
 ## Currently Learning
 - Linux & Shell Scripting
 - Web Security Fundamentals
-- Data Structures & Algorithms
 - Computer Networks
 
 ---
