@@ -10,7 +10,7 @@ I am a BCA student with a strong interest in Engineering and Technology </br>
   
 ## Skills
 - Programming: Python, Java, C, C++
-- Web: HTML, CSS (Basics)
+- Web: HTML, CSS, JS (Basics)
 - Tools: Git, GitHub, VS Code, Linux
 
 ## Currently Learning
