@@ -14,9 +14,6 @@ I am a BCA student with a strong interest in Engineering and Technology </br>
 - Tools: Git, GitHub, VS Code, Linux
 
 ## Currently Learning
-- Linux & Shell Scripting
-- Web Security Fundamentals
-- Computer Networks
 - CUET prep
   
 
