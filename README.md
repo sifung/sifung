@@ -15,5 +15,3 @@ I am a BCA student with a strong interest in Engineering and Technology </br>
 
 ## Currently Learning
 - CUET prep
----
-
