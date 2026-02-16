@@ -14,5 +14,4 @@ I am a BCA student with a strong interest in Engineering and Technology </br>
 - Tools: Git, GitHub, VS Code, Linux, vercel, Netlify
 
 ## Currently Learning
-- CUET prep
-
+- web dev
