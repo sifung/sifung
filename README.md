@@ -16,4 +16,3 @@ I'm a BCA student with a strong interest in Engineering and Technology. </br>
 ## Currently Learning
 - prep Exam
 - Degree syllabus
-
