@@ -6,7 +6,6 @@ I'm a BCA student with a strong interest in Engineering and Technology. </br>
 - Bug Bounty & Web Security
 - Linux & Networking
 - Python Programming
-- AI & Data Science (Beginner)
   
 ## Skills
 - Programming: Python, Java, C, C++
@@ -16,3 +15,4 @@ I'm a BCA student with a strong interest in Engineering and Technology. </br>
 ## Currently Learning
 - prep Exam
 - Degree syllabus
+
