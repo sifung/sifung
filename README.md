@@ -13,6 +13,6 @@ I'm a BCA student with a strong interest in Engineering and Technology. </br>
 - Tools: Git, GitHub, VS Code, Linux, vercel, Netlify
 
 ## Currently Learning
-- prep Exam
+- Entrance Exam prep.
 - Degree syllabus
 
