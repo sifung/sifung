@@ -1,5 +1,5 @@
 # Hi, I'm Kurkure
-I'm a BCA student with a strong interest in Engineering and Technology. </br>
+I'm a BCA student with a strong interest in Engineering
 
 ---
 ## Interests
