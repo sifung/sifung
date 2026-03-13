@@ -14,5 +14,5 @@ I'm a BCA student with a strong interest in Engineering.
 
 ## Currently Learning
 - Entrance Exam prep.
-- Degree syllabus
+
 
